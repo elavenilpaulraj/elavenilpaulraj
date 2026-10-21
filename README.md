@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @elavenilpaulraj
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning front end technologies
+👩‍💻 Software Engineer passionate about Java and software development
+⚡ Java | OOP | DSA | SQL | Python
+🏭 ThingWorx & Manufacturing Execution Systems (MES)
+🤖 AI/ML enthusiast | AI-assisted development
+🎯 Focused on writing better code and building scalable applications.
 
 
 <!---
